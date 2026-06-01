@@ -1,5 +1,6 @@
 # Driving the Transition: An Analysis of Electric Vehicle Adoption Across the United States
 
+
 - [Driving the Transition: An Analysis of Electric Vehicle Adoption Across the United States](#driving-the-transition-an-analysis-of-electric-vehicle-adoption-across-the-united-states)
   - [Project Introduction](#project-introduction)
   - [Project Goals](#project-goals)
@@ -12,6 +13,8 @@
     - [2. EV Adoption Leaders \& Laggards](#2-ev-adoption-leaders--laggards)
     - [3. Alternative Fuels — Significant vs. Niche](#3-alternative-fuels--significant-vs-niche)
     - [4. Infrastructure Investment Gaps](#4-infrastructure-investment-gaps)
+
+
 
 ## Project Introduction
 
