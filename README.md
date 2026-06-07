@@ -23,7 +23,9 @@
 
 Faced with the ongoing oil crisis, Electric Vehicles (EVs) shine bright as a solution that is both independent of global supply chain blockages and environmentally sustainable. 
 
-The question is not **IF the EV market will dominate** in the coming years and decades. It is **HOW LONG UNTIL it has achieved dominance**.
+The question is no longer **IF ELECTRIC VEHICLES WILL REPLACE 
+GASOLINE**. Rather, it is **WHO WILL BE LEADING THE CHARGE AND 
+WHO WILL BE LEFT BEHIND**.
 
 This project analyzes electric and traditional vehicle registrations across all 50 U.S. states to answer that question and to provide data-driven insights and recommendations to policymakers and automakers.
 
