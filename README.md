@@ -60,9 +60,9 @@ This project analyzes electric and traditional vehicle registrations across all 
 
 ## :information_source: Data Source
 
-[:link:Raw Data](Data/Raw%20Data/vehicle_data_raw.csv)
+[:link:Raw Data](Data/Raw_Data/vehicle_data_raw.csv)
 
-[:link:Processed Data](Data/Processed%20Data/vehicle_data_final.xlsx)
+[:link:Processed Data](Data/Processed_Data/vehicle_data_final.xlsx)
 
 > **Note:** On GitHub, click the link above then click the **Download** 
 > button (or press the download icon) on the top right of the page to save the file.
