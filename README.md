@@ -64,7 +64,7 @@ This project analyzes electric and traditional vehicle registrations across all 
 
 [:link:Processed Data](Data/Processed_Data/vehicle_data_final.xlsx)
 
-> **Note:** On GitHub, click the link above then click the **Download** 
+> **Note:** On GitHub, click the link above then click the :arrow_down: **Download** 
 > button (or press the download icon) on the top right of the page to save the file.
 
 ## :hammer: Tech Stack
