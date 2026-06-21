@@ -1,0 +1,10 @@
+Project Introduction
+Glossary
+Project Goals
+Questions to Answer
+Data Source
+Tech Stack
+Data Cleaning & Preparation
+EDA
+Analysis & Key Findings
+Limitations
